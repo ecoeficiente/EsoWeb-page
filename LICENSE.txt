@@ -1,0 +1,5 @@
+© 2026 Germán Campos. Todos los derechos reservados sobre el código propio de EsoWeb.
+
+Se autoriza ejecutar la versión oficial del visor en el navegador y guardar una copia local para uso propio. La modificación, redistribución, republicación o incorporación del código propio a otro producto requiere autorización previa del titular, salvo en los supuestos permitidos por la ley o por los términos de GitHub.
+
+Los componentes de terceros se rigen por sus respectivas licencias, recogidas en THIRD_PARTY_NOTICES.txt.
